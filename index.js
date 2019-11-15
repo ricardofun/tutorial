@@ -1,4 +1,4 @@
-function do(){
-	alert("fight!!1");
+function doAlert(){
+	alert("fight!!");
 }
 
